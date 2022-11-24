@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://ntlegion.github.io/mixql_docs/grenki/0.1/main.html</loc>
-<lastmod>2022-11-22T21:15:54.388Z</lastmod>
-</url>
-</urlset>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>https://ntlegion.github.io/mixql_docs/sitemap-contributors-guide.xml</loc>
+</sitemap>
+<sitemap>
+<loc>https://ntlegion.github.io/mixql_docs/sitemap-users-guide.xml</loc>
+</sitemap>
+</sitemapindex>
