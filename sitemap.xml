@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-<loc>https://ntlegion.github.io/mixql-docs/sitemap-mixql-cluster.xml</loc>
+<loc>http://mixql.org/sitemap-mixql-cluster.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://ntlegion.github.io/mixql-docs/sitemap-mixql-core.xml</loc>
+<loc>http://mixql.org/sitemap-mixql-core.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://ntlegion.github.io/mixql-docs/sitemap-mixql-protobuf.xml</loc>
+<loc>http://mixql.org/sitemap-mixql-protobuf.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://ntlegion.github.io/mixql-docs/sitemap-users-guide.xml</loc>
+<loc>http://mixql.org/sitemap-users-guide.xml</loc>
 </sitemap>
 </sitemapindex>
